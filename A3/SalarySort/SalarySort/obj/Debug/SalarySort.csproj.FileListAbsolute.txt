@@ -1,0 +1,7 @@
+C:\Users\61406\source\repos\SalarySort\SalarySort\bin\Debug\SalarySort.exe.config
+C:\Users\61406\source\repos\SalarySort\SalarySort\bin\Debug\SalarySort.exe
+C:\Users\61406\source\repos\SalarySort\SalarySort\bin\Debug\SalarySort.pdb
+C:\Users\61406\source\repos\SalarySort\SalarySort\obj\Debug\SalarySort.csprojAssemblyReference.cache
+C:\Users\61406\source\repos\SalarySort\SalarySort\obj\Debug\SalarySort.csproj.CoreCompileInputs.cache
+C:\Users\61406\source\repos\SalarySort\SalarySort\obj\Debug\SalarySort.exe
+C:\Users\61406\source\repos\SalarySort\SalarySort\obj\Debug\SalarySort.pdb
