@@ -1,0 +1,10 @@
+C:\Users\61406\source\repos\WinSig\bin\Debug\WinSig.exe.config
+C:\Users\61406\source\repos\WinSig\bin\Debug\WinSig.exe
+C:\Users\61406\source\repos\WinSig\bin\Debug\WinSig.pdb
+C:\Users\61406\source\repos\WinSig\obj\Debug\WinSig.csprojAssemblyReference.cache
+C:\Users\61406\source\repos\WinSig\obj\Debug\WinSig.Form1.resources
+C:\Users\61406\source\repos\WinSig\obj\Debug\WinSig.Properties.Resources.resources
+C:\Users\61406\source\repos\WinSig\obj\Debug\WinSig.csproj.GenerateResource.cache
+C:\Users\61406\source\repos\WinSig\obj\Debug\WinSig.csproj.CoreCompileInputs.cache
+C:\Users\61406\source\repos\WinSig\obj\Debug\WinSig.exe
+C:\Users\61406\source\repos\WinSig\obj\Debug\WinSig.pdb
