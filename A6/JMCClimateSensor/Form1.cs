@@ -129,8 +129,16 @@ namespace JMCClimateSensor
 
             using (OpenFileDialog openFileDialog = new OpenFileDialog())
             {
-                openFileDialog.InitialDirectory = Path.Combine(
+                try
+                {
+                    openFileDialog.InitialDirectory = Path.Combine(
                     Path.GetDirectoryName(Application.ExecutablePath), @"../../weatherData");
+                }
+                catch (IOException ex)
+                {
+                    MessageBox.Show(ex.Message);
+                }
+                
                 openFileDialog.AutoUpgradeEnabled = true;                
                 openFileDialog.Filter = "All files(*.*)| *.*|csv files (*.csv)|*.csv";
                 openFileDialog.FilterIndex = 2;
